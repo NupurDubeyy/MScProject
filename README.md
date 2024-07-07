@@ -1,2 +1,2 @@
-# MSc_Project
+# MScProject
 Scripts for MSc Thesis Project
